@@ -1,0 +1,14 @@
+footer {
+    background-color: white;
+    padding: 30px 10px;
+    -webkit-box-shadow: 1px -1px 13px 22px rgba(198, 229, 230, 0.42);
+    -moz-box-shadow: 1px -1px 13px 22px rgba(198, 229, 230, 0.42);
+    box-shadow: 1px -1px 13px 22px rgba(198, 229, 230, 0.42);
+}
+
+.brand {
+    background-color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}

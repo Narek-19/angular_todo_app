@@ -1,0 +1,16 @@
+header {
+    height: 100px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    background-color:white;
+    -webkit-box-shadow: 24px 31px 34px -17px rgba(198,229,230,1);
+    -moz-box-shadow: 24px 31px 34px -17px rgba(198,229,230,1);
+    box-shadow: 24px 31px 34px -17px rgba(198,229,230,1);
+}
+
+.brand{
+    background-color: aliceblue;
+    padding:5px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
